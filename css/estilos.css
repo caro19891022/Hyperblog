@@ -1,4 +1,48 @@
-body {
-    text-align: center;
+#body 
+{ 
+    color: black;
+    text-align: left;
     font-family: "Arial";
 }
+
+#cabecera {
+    background: blueviolet;
+    box-shadow: 0px 2px 50px 0px rgba(0,0,0,0.75);
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+}
+#cabecera #tagline {
+    padding: 1em 0 0 0;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
+
+
+#container 
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid white;
+    margin:  0 auto;
+
+}
+
+#container h1 {
+    font-size: 20px;
+}
+   
+
+
+
+
+
+
+
+
+
+
+
+
